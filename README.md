@@ -23,3 +23,19 @@ Publish configuration in Laravel 5
 ```
 $ php artisan vendor:publish --provider="Joyching\I18n\I18nServiceProvider"
 ```
+
+## Export
+
+Export the all i18n files to `.csv` files
+
+```
+$ php artisan i18n-tool:export
+```
+
+Export specific locale i18n files to `.csv` file, example: en
+
+```
+$ php artisan i18n-tool:export --locale=en
+```
+
+It will export `.env` files in laravel project `storage/app/i18n-exports` folder
