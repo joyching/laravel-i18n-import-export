@@ -1,6 +1,7 @@
 {
     "name": "joyching/laravel-i18n-tool",
     "description": "A Laravel package providing artisan commands to import and export language files from and to CSV.",
+    "license": "MIT",
     "authors": [
         {
             "name": "Joy Lin",
