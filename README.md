@@ -1,7 +1,8 @@
 # Laravel i18n Tool
 
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/joyching/laravel-i18n-tool.svg?style=flat-square)](https://packagist.org/packages/joyching/laravel-i18n-tool)
 [![StyleCI](https://github.styleci.io/repos/194485478/shield)](https://github.styleci.io/repos/194485478)
-<a href="https://travis-ci.org/joyching/laravel-i18n-tool"><img src="https://travis-ci.org/laravel/socialite.svg" alt="Build Status"></a>
+<a href="https://travis-ci.org/joyching/laravel-i18n-tool"><img src="https://api.travis-ci.org/repos/joyching/laravel-i18n-tool.svg" alt="Build Status"></a>
 
 ## Installation
 
